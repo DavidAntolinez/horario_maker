@@ -1,0 +1,63 @@
+[
+    [
+        {
+            "id":"elec grupo1",
+            "dias":"Viernes/Sabado",
+            "horas":"6-8/6-10"
+        },
+        {
+            "id":"elec grupo11",
+            "dias":"Viernes/Sabado",
+            "horas":"8-10/6-10"
+        },
+        {
+            "id":"elec grupo40",
+            "dias":"Lunes/Miercoles/Viernes",
+            "horas":"12-14/12-14/12-14"
+        }
+    ],
+    [
+        {
+            "id":"ecua grupo1",
+            "dias":"Lunes/Miercoles",
+            "horas":"6-8/6-8"
+        },
+        {
+            "id":"ecua grupo5",
+            "dias":"Lunes/Miercoles",
+            "horas":"10-12/10-12"
+        }
+    ],
+    [
+        {
+            "id":"bases datos grupo1",
+            "dias":"Martes/Jueves",
+            "horas":"9-12/9-12"
+        },
+        {
+            "id":"bases datos grupo3",
+            "dias":"Martes/Jueves",
+            "horas":"6-9/6-9"
+        }
+    ],
+    [
+        {
+            "id":"analisis grupo1",
+            "dias":"Miercoles/Viernes",
+            "horas":"10-12/10-12"
+        }
+    ]
+    ,
+    [
+        {
+            "id":"ap4 grupo1",
+            "dias":"Martes/Jueves",
+            "horas":"12-14/12-15"
+        },
+        {
+            "id":"ap4 grupo3",
+            "dias":"Miercoles/Viernes",
+            "horas":"12-14/12-15"
+        }
+    ]
+]
